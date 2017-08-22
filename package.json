@@ -1,0 +1,28 @@
+{
+  "name": "favourite-restaurants-cafe",
+  "version": "1.0.0",
+  "description": "Fomative project for Yoobee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelleCoffinTaylor/Favourite-Restaurants-Cafe.git"
+  },
+  "keywords": [
+    "yoobee",
+    "google-maps",
+    "facebook-api"
+  ],
+  "author": "Michelle, Mathew & Tim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichelleCoffinTaylor/Favourite-Restaurants-Cafe/issues"
+  },
+  "homepage": "https://github.com/MichelleCoffinTaylor/Favourite-Restaurants-Cafe#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.2.1"
+  }
+}
