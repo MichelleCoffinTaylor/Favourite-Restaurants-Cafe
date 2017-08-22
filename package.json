@@ -23,6 +23,7 @@
   "homepage": "https://github.com/MichelleCoffinTaylor/Favourite-Restaurants-Cafe#readme",
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "popper": "^1.0.0"
   }
 }
